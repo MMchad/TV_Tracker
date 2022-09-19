@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "559574412689",
+    "project_id": "tv-tracker-dc626",
+    "storage_bucket": "tv-tracker-dc626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559574412689:android:63a80092d0b8660a0afe30",
+        "android_client_info": {
+          "package_name": "com.example.tv_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559574412689-iolmdd3odhvl9qetdpvkrg75q3s1gjlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9R6l-0Tro0Gp6fdbuxHMzAHxCInaIS8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559574412689-iolmdd3odhvl9qetdpvkrg75q3s1gjlm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559574412689-vaqq3jq1u82t29udbjncm3kos12360o3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tvTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
