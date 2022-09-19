@@ -155,8 +155,6 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 <br/><br/>
 <img src = "https://github.com/MMchad/TV_Tracker/blob/master/Screenshots/Languages/5.png?raw=true" width = "300" />
 <br/><br/>
-<img src = "https://github.com/MMchad/TV_Tracker/blob/master/Screenshots/Languages/6.png?raw=true" width = "300" />
-<br/><br/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
