@@ -51,9 +51,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-An app that helps you track the movies you want to watch and the tv show episodes both released and unreleased. You can also discover popular movies and shows or use the search to find specific ones. The app suppoers multiple languages including RTL languages.
+An app that helps you track movies and show episodes both released and unreleased. You can also discover popular movies and shows or use the search funciton to find specific ones. The app supports multiple languages including RTL languages.
 <br><br>
-The users are authenticated using firebase auth and data is stored using firestore.
+The users are authenticated using FirebaseAuth and data is stored using Firestore.
 <br><br>
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 <br><br>
