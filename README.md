@@ -10,6 +10,9 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
+    <a href="#usage">Usage</a>
+    </li>
+    <li>
         <a href="#screenshots">Screenshots</a>
     </li>
         <ol>
@@ -57,7 +60,10 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" width="100"/>
 <br>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+## Usage
+Clone the repo and run "flutter pub get" to install dependencies.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
