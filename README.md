@@ -17,7 +17,7 @@
     </li>
         <ol>
             <li>
-             <a href="#auth">Screenshots</a>
+             <a href="#auth">Auth</a>
             </li>
             <li>
              <a href="#discover">Discover</a>
